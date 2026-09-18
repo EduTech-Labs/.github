@@ -23,8 +23,8 @@ Nosso principal programa é a **Educação Inovadora** — uma jornada de forma�
 | 2023 | Rio Innovation Week — Melhor prática do Senac Brasil |
 | 2024 | Prêmio IEL 1º lugar — Sofia 3D |
 | 2024 | Prêmio Inova DN 2º lugar — Programa Perten.Ser |
-| 2025 | Prêmio IEL 1º e 2º lugar — Categoria Sistema S / Educação Inovadora |
-
+| 2025 | Prêmio IEL 1º e 2º lugar — Categorias Sistema S / Educação Inovadora |
+| 2026 | Prêmio IEL 1º E 2º lugar - Categorias Sistema S / Estagiário Inovador
 ---
 
 <div align="center">
